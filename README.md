@@ -1,2 +1,2 @@
 # ServiceNow-SNG
-REspository for service now integration
+Respository for service now integration
