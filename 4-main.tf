@@ -7,6 +7,7 @@ resource "aci_tenant" "user_tenant" {
   description = local.model.tenant.description
 }
 
+
 ##################################
 # User tenant networking
 ##################################
