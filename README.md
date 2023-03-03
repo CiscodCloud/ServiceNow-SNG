@@ -1,2 +1,2 @@
 # ServiceNow-SNG
-Respository for service now integration
+Respository for ServiceNow integration. ACI configuration in SNG.
