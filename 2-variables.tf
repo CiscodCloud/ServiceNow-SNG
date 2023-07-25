@@ -5,12 +5,15 @@ variable "apic_url" {
 
 variable "apic_username" {
   type = string
+  default = ""
 }
 
 variable "apic_password" {
   type = string
+  default = ""
 }
 
 variable "request_number" {
   type = string
+  default = ""
 }
